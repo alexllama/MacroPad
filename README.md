@@ -11,9 +11,11 @@ You must select Keyboard from the "Tools > USB Type" menu
 This example code is in the public domain.
 
 Button layout on the MacroPad
+<pre>
       MT  LD  RD
   RE
       PP  PT  NT
+</pre>
 
 Button names
 RE - Rotary Encoder
